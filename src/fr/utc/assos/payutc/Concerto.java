@@ -1,6 +1,7 @@
 package fr.utc.assos.payutc;
 
 import java.util.List;
+
 import javax.smartcardio.Card;
 import javax.smartcardio.CardChannel;
 import javax.smartcardio.CardException;
@@ -9,6 +10,7 @@ import javax.smartcardio.CommandAPDU;
 import javax.smartcardio.ResponseAPDU;
 import javax.smartcardio.TerminalFactory;
 import javax.swing.JApplet;
+
 import netscape.javascript.JSException;
 import netscape.javascript.JSObject;
 
